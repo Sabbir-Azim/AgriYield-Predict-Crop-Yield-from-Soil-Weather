@@ -41,11 +41,11 @@ git clone https://github.com/Sabbir-Azim/AgriYield-Predict-Crop-Yield-from-Soil-
 ```
 
 ```bash
-conda create -n visa python=3.11.13 -y
+conda create -n agriyield python=3.11.13 -y
 ```
 
 ```bash
-conda activate visa
+conda activate agriyield
 ```
 
 ```bash
@@ -58,4 +58,4 @@ pip install -r requirements.txt
 ```bash
 
 
-export MONGODB_URL=""
+export MONGODB_URL="mongodb+srv://sabbirazim:Zz-01739670485@agriyield.cebiwjl.mongodb.net/?retryWrites=true&w=majority&appName=AgriYield"

@@ -1,0 +1,41 @@
+# Core data science packages
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+catboost
+
+# Database
+pymongo
+
+# Utility & project structure
+from_root
+dill
+PyYAML
+neuro_mf
+
+# AWS
+boto3
+mypy-boto3-s3
+botocore
+
+# Web / API
+fastapi
+uvicorn
+jinja2
+python-multipart
+
+# Project local package in editable mode
+-e .
+  
+# Specific versions
+evidently==0.2.8
+
+
+
+
