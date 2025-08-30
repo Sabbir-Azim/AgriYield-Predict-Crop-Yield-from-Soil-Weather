@@ -54,8 +54,3 @@ pip install -r requirements.txt
 
 
 
-### Export the  environment variable
-```bash
-
-
-export MONGODB_URL="mongodb+srv://sabbirazim:Zz-01739670485@agriyield.cebiwjl.mongodb.net/?retryWrites=true&w=majority&appName=AgriYield"
